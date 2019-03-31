@@ -1,1 +1,1 @@
-Fork and them make a pull request
+Fork and then make a pull request
